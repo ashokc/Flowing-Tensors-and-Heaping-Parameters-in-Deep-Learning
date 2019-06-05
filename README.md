@@ -12,6 +12,13 @@ The table below summarizes the parameter counts and input/output tensor shapes f
 
 ![Summary findings](./images/table.jpg "Summary findings")
 
+# Usage
+
+	pipenv run python ./dense_1.py
+	pipenv run python ./embed_1.py
+	pipenv run python ./lstm.py
+	pipenv run python ./gru.py
+
 ## Dense Layer
 ![Dense layer equations](./images/dense_eq.jpg "Dense layer equations")
 
@@ -31,11 +38,4 @@ The table below summarizes the parameter counts and input/output tensor shapes f
 	tensorflow
 	graphviz
 	pydot
-
-# Usage
-
-	pipenv run python ./dense_1.py
-	pipenv run python ./embed_1.py
-	pipenv run python ./lstm.py
-	pipenv run python ./gru.py
 
