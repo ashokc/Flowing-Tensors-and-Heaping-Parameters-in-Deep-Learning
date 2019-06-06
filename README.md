@@ -2,7 +2,7 @@
 
 This is the source code to go along with the blog article
 
-[Flowing Tensors and Heaping Parameters in Deep Learning](http://xplordat.com/2019/04/25/concept-drift-and-model-decay-in-machine-learning/)
+[Flowing Tensors and Heaping Parameters in Deep Learning](http://xplordat.com/2019/06/06/flowing-tensors-and-heaping-parameters-in-deep-learning/)
 
 Formulae for trainable parameter counts are developed for a few popular layers in Keras as function of layer parameters and input characteristics. The results are then reconciled with what Keras reports upon running the model.
 
